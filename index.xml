@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>32 Bytes is a small IT consultancy firm based in Stockholm, Sweden. We help our customers develop modern IT solutions that are secure, fast, and maintainable over time.
+Tech stack While we work well most modern tech stacks, there is tech that we prefer and default to when sensible.
+ Cloud providers: We are familiar with most modern cloud providers, especially AWS, Google Cloud Platform and Heroku. Databases: Any SQL databases, including PostgresSQL, and SQLite.</description>
+    </item>
+    
+    <item>
       <title>Blog</title>
       <link>/blog/</link>
       <pubDate>Tue, 06 Oct 2020 08:49:55 +0000</pubDate>
